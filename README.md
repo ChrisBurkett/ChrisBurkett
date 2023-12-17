@@ -5,7 +5,7 @@
 - <b>SQL Database Project (Structured Query Language)</b>
   - [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/SQL)
 - <b>Python Text Game Project</b>
-  - [Python Text Based Game]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/ChrisBurkett/Python/tree/main)) 
+  - [Python Text Based Game](https://github.com/ChrisBurkett/Python/tree/main)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
