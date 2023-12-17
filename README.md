@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>SQL Database Project (Structured Query Language)</b>
+- <b>SQL Database Projects (Structured Query Language)</b>
   - [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/SQL)
-- <b>Python Project</b>
+- <b>Python Projects</b>
   - [Python Text Based Game](https://github.com/ChrisBurkett/Python/tree/main)
-- <b>PowerShell</b>
+- <b>Java Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
