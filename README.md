@@ -14,15 +14,7 @@
 
 [<img align="left" alt="ChrisBurkett | LinkedIn" width="22px" src="https://www.linkedin.com/in/christopher-burkett/" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/christopher-burkett/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
