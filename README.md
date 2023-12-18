@@ -1,5 +1,7 @@
-<h1>Hi, I'm Chris! <br/><a href="(https://github.com/ChrisBurkett/ChrisBurkett/)"></a><a href="https://www.youtube.com/watch?v=CJQcGA8RHTU">Intelligence Analyst</a>, <a href="https://www.linkedin.com/in/christopher-burkett/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ITBurke">YouTuber</a></h1>
-
+<h1>Hi, I'm Chris! <br/><a href="(https://github.com/ChrisBurkett/ChrisBurkett/)"></a><a href="https://www.youtube.com/watch?v=CJQcGA8RHTU">Intelligence Analyst</a>, <a href="https://www.linkedin.com/in/christopher-burkett/">Cybersecurity Professional</a>, 
+<!--  
+<a href="https://www.youtube.com/@ITBurke">YouTuber</a></h1>
+-->
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>SQL Database Projects (Structured Query Language)</b>
