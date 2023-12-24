@@ -10,7 +10,7 @@
   - [Python Text Based Game](https://github.com/ChrisBurkett/Python/tree/main)
 - <b>Java Projects</b>
   - [Java Check in Project](https://github.com/ChrisBurkett/Java)
-  - [Python Text Based Game](https://github.com/ChrisBurkett/Java_Paint)
+  - [Java Paint Calculator Project](https://github.com/ChrisBurkett/Java_Paint)
 
 <h2> 🤳 Connect with me:</h2>
 
