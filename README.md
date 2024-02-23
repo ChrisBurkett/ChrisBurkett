@@ -6,6 +6,7 @@
 
 - <b>Homelab Servers and Virtual Machines</b>
   - [PROMOX server build](https://github.com/ChrisBurkett/Proxmox)
+  - [PROMOX Virtual Machine Setup](https://github.com/ChrisBurkett/Proxmox)
   
 <h2>👨‍💻 Coding Projects:</h2>
 
