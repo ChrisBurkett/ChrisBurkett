@@ -4,8 +4,8 @@
 -->
 <h2>🔒 Cyber Security Projects:</h2>
 
-- <b>PROMOX server build (Virtual Machines)</b>
-  - [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/SQL)
+- <b>Homelab Servers and Virtual Machines</b>
+  - [PROMOX server build](https://github.com/ChrisBurkett/Proxmox)
   
 <h2>👨‍💻 Coding Projects:</h2>
 
