@@ -5,8 +5,8 @@
 <h2>🔒 Cyber Security Projects:</h2>
 
 - <b>Homelab Servers and Virtual Machines</b>
-  - [PROMOX server build](https://github.com/ChrisBurkett/Proxmox)
-  - [PROMOX Virtual Machine Setup](https://github.com/ChrisBurkett/PROMOX_VM_SETUP)
+  - [PROXMOX server build](https://github.com/ChrisBurkett/Proxmox)
+  - [PROXMOX Virtual Machine Setup](https://github.com/ChrisBurkett/PROMOX_VM_SETUP)
   
 <h2>👨‍💻 Coding Projects:</h2>
 
