@@ -2,7 +2,7 @@
 
 <h2 align="center">
 Senior Security Engineer — U.S. Space Force<br/>
-NCOIC — 180th Cyber Protection Team — U.S. Army Reserves 
+Cyber NCOIC — 180th Cyber Protection Team — U.S. Army Reserves 
 </h2>
 
 <p align="center">
