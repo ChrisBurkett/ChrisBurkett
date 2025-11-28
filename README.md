@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="(https://github.com/ChrisBurkett/ChrisBurkett/)"></a><a href="https://www.youtube.com/watch?v=CJQcGA8RHTU">Intelligence Analyst</a>, <a href="https://www.linkedin.com/in/christopher-burkett/">Cybersecurity Professional</a>
+<h1>Hi, I'm Chris! <br/><a href="(https://github.com/ChrisBurkett/ChrisBurkett/)"></a><a href="[https://www.spaceforce.com">Senior Security Engineer for the Spceforece</a>, <a href="https://www.linkedin.com/in/christopher-burkett/">And the NCOIC of the 180th Cyber Protection Team</a>
 <!--  
 <a href="https://www.youtube.com/@ITBurke">YouTuber</a></h1>
 -->
