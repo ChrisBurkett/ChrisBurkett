@@ -1,9 +1,9 @@
 <h1>Hi, I'm Chris 👋</h1>
 
-<p>
+<h2>
 I’m a <strong>Senior Security Engineer for the U.S. Space Force</strong> and the 
 <strong>NCOIC of the 180th Cyber Protection Team</strong>.
-</p>
+</h2>
 
 <p>
 🔗 <a href="https://github.com/ChrisBurkett">GitHub</a> • 
