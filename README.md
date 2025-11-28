@@ -1,8 +1,8 @@
 <h1>Hi, I'm Chris 👋</h1>
 
 <h2>
-I’m a <strong>Senior Security Engineer for the U.S. Space Force</strong> and the 
-<strong>NCOIC of the 180th Cyber Protection Team</strong>.
+I’m a <strong>Senior Security Engineer for the U.S. Space Force</strong> 
+and the <strong>NCOIC of the 180th Cyber Protection Team</strong>.
 </h2>
 
 <p>
