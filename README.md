@@ -10,10 +10,6 @@ Cyber NCOIC — 180th Cyber Protection Team — U.S. Army Reserves
 <a href="https://www.linkedin.com/in/christopher-burkett/">LinkedIn</a>
 </p>
 
-<p>
-🔗 <a href="https://github.com/ChrisBurkett">GitHub</a> • 
-🔗 <a href="https://www.linkedin.com/in/christopher-burkett/">LinkedIn</a>
-</p>
 <!--  
 <a href="https://www.youtube.com/@ITBurke">YouTuber</a></h1>
 -->
