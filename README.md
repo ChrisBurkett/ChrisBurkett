@@ -16,7 +16,7 @@ Cyber NCOIC — 180th Cyber Protection Team — U.S. Army Reserves
 <h2>🛠️ Cyber Security Tools:</h2>
 
 - <b>MCP Integration allows AI to run commands on your system</b>
-  - [ClaudeStrike (AI in the commandline)](https://github.com/ChrisBurkett/ClaudeStrike)
+  - [ClaudeStrike (AI in the terminal)](https://github.com/ChrisBurkett/ClaudeStrike)
 
 <h2>🔒 Cyber Security Projects:</h2>
 
